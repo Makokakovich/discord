@@ -4,7 +4,7 @@ A Discord bot built with Python and discord.py, featuring a modular cog-based ar
 
 ## About
 
-Personal project by **Maksim Karmaiznovskiy**. Built to automate moderation, fun commands, and server management using an extensible cog system.
+Personal project by **Maksym Karmazynovskyi**. Built to automate moderation, fun commands, and server management using an extensible cog system.
 
 ## Features
 
